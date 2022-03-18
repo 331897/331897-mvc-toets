@@ -5,6 +5,7 @@ foreach ($data['users'] as $user) {
     echo "<br>";
 }
 */
+
 ?>
-HOME PAGE
-<a href="http://mvc-workbench.org/fruits/index">fruit</a>
+
+<a href="http://mvc-workbench.org/country/index">country</a>
